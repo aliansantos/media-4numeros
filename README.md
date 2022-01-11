@@ -1,0 +1,1 @@
+Simple program to calculate the average of 4 numbers.
